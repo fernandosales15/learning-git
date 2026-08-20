@@ -1,1 +1,2 @@
-estou iniciando a história do git aqui
+estou iniciando a história do git aqui,
+Nova linha
