@@ -1,2 +1,2 @@
 CONFIG=True
-NAME="Fernando" ================== CRASH EMBUTIDO =======================
+NAME="Fernando"
