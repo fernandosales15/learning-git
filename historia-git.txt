@@ -5,3 +5,4 @@ Mariana escreveu aqui...
 Fernando escreveu aqui.... X5
 Treinando o amend..
 Testar pull request comum
+Teste assinatura commit
