@@ -1,2 +1,3 @@
 Meu servidor
 SERVIDOR=SANDBOX
+CLOJURE
