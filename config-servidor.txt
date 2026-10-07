@@ -1,3 +1,2 @@
 Meu servidor
 SERVIDOR=SANDBOX
-TESTE
